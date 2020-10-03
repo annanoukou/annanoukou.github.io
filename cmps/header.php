@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Riddle - Portfolio Template</title>
+	<title>AN  - Github.io</title>
 	<meta charset="UTF-8">
-	<meta name="description" content="Riddle - Portfolio Template">
-	<meta name="keywords" content="portfolio, riddle, onepage, creative, html">
+	<meta name="description" content="Github io - Portfolio">
+	<meta name="keywords" content="portfolio, github, onepage, creative, html">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- Favicon -->   
 	<link href="img/favicon.ico" rel="shortcut icon"/>
