@@ -13,10 +13,10 @@
 	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,400i,600,600i,700" rel="stylesheet">
 
 	<!-- Stylesheets -->
-	<link rel="stylesheet" href="css/bootstrap.min.css"/>
-	<link rel="stylesheet" href="css/font-awesome.min.css"/>
-	<link rel="stylesheet" href="css/magnific-popup.css"/>
-	<link rel="stylesheet" href="css/style.css"/>
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="assets/css/magnific-popup.css"/>
+	<link rel="stylesheet" href="assets/css/style.css"/>
 
 
 	<!--[if lt IE 9]>
@@ -170,10 +170,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
 
 	<!--====== Javascripts & Jquery ======-->
-	<script src="js/jquery-2.1.4.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/mixitup.min.js"></script>
-	<script src="js/magnific-popup.min.js"></script>
-	<script src="js/main.js"></script>
+	<script src="assets/js/jquery-2.1.4.min.js"></script>
+	<script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/mixitup.min.js"></script>
+	<script src="assets/js/magnific-popup.min.js"></script>
+	<script src="assets/js/main.js"></script>
 </body>
 </html>
